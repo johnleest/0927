@@ -142,7 +142,11 @@
     <ClCompile Include="20210927.cpp" />
     <ClCompile Include="20210927_1.cpp" />
     <ClCompile Include="20210927_2.cpp" />
+    <ClCompile Include="20210928.cpp" />
+    <ClCompile Include="20210928_1.cpp" />
+    <ClCompile Include="bingo.cpp" />
     <ClCompile Include="util.cpp" />
+    <ClCompile Include="소스.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="util.h" />
